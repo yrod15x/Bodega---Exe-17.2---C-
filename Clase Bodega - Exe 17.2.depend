@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1708375662 source:c:\users\megas\documents\programming\introduction c++\clase bodega - exe 17.2\src\bodega.cpp
+	"Bodega.h"
+	<vector>
+	<iostream>
+	<string>
+	<algorithm>
+
+1708374943 c:\users\megas\documents\programming\introduction c++\clase bodega - exe 17.2\include\bodega.h
+	<vector>
+	<string>
+
+1708375449 source:c:\users\megas\documents\programming\introduction c++\clase bodega - exe 17.2\main.cpp
+	<iostream>
+	"Bodega.h"
+	<vector>
+	<string>
+
